@@ -1,8 +1,14 @@
-[
+"product" : [
     "GeniusWordENG.InApp1",
     "GeniusWordENG.InApp2",
     "GeniusWordENG.InApp3",
     "GeniusWordENG.InApp4",
-    "GeniusWordENG.InApp5",
-    "GeniusWordENG.InApp6"
-]
+    "GeniusWordENG.InApp5"
+],
+  "info" : [
+  1000,
+  3000,
+  5000,
+  7000,
+  25000
+  ]
