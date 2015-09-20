@@ -1,4 +1,5 @@
-"product" : [
+{
+    "product" : [
     "GeniusWordENG.InApp1",
     "GeniusWordENG.InApp2",
     "GeniusWordENG.InApp3",
@@ -12,3 +13,4 @@
   7000,
   25000
   ]
+}
